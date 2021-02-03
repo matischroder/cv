@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Matías Schröder | 💻🤓
 Description: Currículum Vitae de Matías Schröder
+github:
+  is_project_page: false
