@@ -10,17 +10,17 @@ Al mismo tiempo cursó y completó sus estudios de inglés en el instituto *Brit
 
 ### Carrera universitaria
 
-Comenzó sus estudios universitarios muy entusiasmado buscando cada día aprender más los temas otorgados por las asignaturas básicas. Siempre le intereso buscar y demostrar cada teorema o fundamento para de esa manera poder comprenderlo.
+Comenzó sus estudios universitarios muy entusiasmado buscando cada día aprender más los temas otorgados por las asignaturas básicas. Siempre le interesó buscar y demostrar cada teorema o fundamento para de esa manera poder comprenderlo.
 
-Se adentro por primera vez en la programación en su primer año facultativo. En el mismo pudo comprender un lenguaje clave, **C++**. Pudo aprender los fundamentos de la programación y con ellos pudo solucionar múltiples problemas con la computadora.
+Se adentró por primera vez en la programación en su primer año facultativo. En el mismo pudo comprender un lenguaje clave, **C++**. Pudo aprender los fundamentos de la programación y con ellos pudo solucionar múltiples problemas con la computadora.
 
 En segundo año pudo adentrarse a lo que es el diseño y la programación de páginas web realizando un [trabajo grupal](https://ucc-labcompu2.github.io/proyecto2018-pato-dejaste/index.html) sobre el tema tiro oblicuo. Cabe mencionar que el mismo fue realizado con los conocimientos básicos de **HTML5, CSS y Javascript**.
 
-Luego de eso, en el tercer año facultativo, realizó otro [trabajo grupal](https://malucar.herokuapp.com/) en la cual se utilizó **Heroku** para almacenar la página en la nube. Está página tenía como objetivo que se utilice como un Uber para viajes de larga distancia. De esta forma, se pueden compartir gastos de nafta y peajes. Aquí Matías, con más conocimientos y utilizando bibliotecas de diseño, se encargo principalmente de la parte del front-end.
+Luego de eso, en el tercer año facultativo, realizó otro [trabajo grupal](https://malucar.herokuapp.com/) en la cual se utilizó **Heroku** para almacenar la página en la nube. Esta página tenía como objetivo que se utilice como un Uber para viajes de larga distancia. De esta forma, se pueden compartir gastos de nafta y peajes. Aquí Matías, con más conocimientos y utilizando bibliotecas de diseño, se encargo principalmente de la parte del front-end.
 
-Ese mismo año, en la asignatura Base de Datos 2, se realizo otro trabajo grupal que consistía en la creación de un **dashboard** utilizando un datacenter. [Aquí](https://github.com/matischroder/UsaGunViolence) se pude observar un repositorio que contiene el PDF explicativo del dashboard y del proyecto en sí.
+Ese mismo año, en la asignatura Base de Datos 2, se realizó otro trabajo grupal que consistía en la creación de un **dashboard** utilizando un datacenter. [Aquí](https://github.com/matischroder/UsaGunViolence) se puede observar un repositorio que contiene el PDF explicativo del dashboard y del proyecto en sí.
 
-En el último año 2020, Matías tuvo la oportunidad de participar en un proyecto colaborando con el voluntariado de la UCC. El mismo consta de una [página web](https://voluntariadoing.ucc.edu.ar/) por el cual los usuarios pueden realizar [donaciones](https://voluntariadoing.ucc.edu.ar/form) de materiales de construccion, ropa, alimentos y demás al barrio "El Milagro". Dentro de este proyecto, Matías formo parte del grupo de Front-End, quienes utilizaron **React** para la elaboración del mismo.
+En el último año 2020, Matías tuvo la oportunidad de participar en un proyecto colaborando con el voluntariado de la UCC. El mismo consta de una [página web](https://voluntariadoing.ucc.edu.ar/) por la cual los usuarios pueden realizar [donaciones](https://voluntariadoing.ucc.edu.ar/form) de materiales de construccion, ropa, alimentos y demás al barrio "El Milagro". Dentro de este proyecto, Matías formó parte del grupo de Front-End, quienes utilizaron **React** para la elaboración del mismo.
 
 ### Proyectos propios
 
