@@ -1,6 +1,6 @@
 ## Sea bienvenido a mi Curriculum Vitae
 
-Aquí va a poder obtener toda la información necesaria para conocer más sobre el futuro (si todo sale bien 🙏🏼) Ingeniero de Sistemas Matías Schröder.
+Aquí va a poder obtener toda la información necesaria para conocer más sobre el futuro Ingeniero de Sistemas Matías Schröder.
 
 ### Inicios
 
