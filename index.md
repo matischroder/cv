@@ -4,7 +4,6 @@ Aquí va a poder obtener toda la información necesaria para conocer más sobre 
 
 ### Inicios
 
-Matías nació una tarde de invierno hace tres siglos atrás.
 Realizo sus estudios primarios y secundarios en el Colegio Gabriel Taborin.
 
 ### Carrera universitaria
