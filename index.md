@@ -1,4 +1,4 @@
-## Curriculum Vitae
+## Currículum Vítae
 
 Aquí va a poder obtener toda la información necesaria para conocer más sobre el futuro **Ingeniero de Sistemas** Matías Celestino Schröder, quien actualmente está estudiando en la *Universidad Católica de Córdoba*.
 
