@@ -28,7 +28,7 @@ Además de la experiencia adquirida en la carrera universitaria, Matías realiz�
 
 Otra página que desarrolló, a pedido de un amigo, fue una por la cual se podían realizar [donaciones de dinero](https://campanadonacionlalonja.netlify.app/) a través de links de *mercadopago*.
 
-Por último, estuvo desarrollando una página web para la [escribanía familiar](https://escribaniaschroder.netlify.app/). En la misma, desarrolló diseños responsive, y de esta forma la página se adapta a diferentes tamaños de pantalla.
+Por último, estuvo desarrollando una página web para la [escribanía familiar](https://escribaniaschroder.netlify.app/). En la misma, desarrolló diseños responsive para que se adapte a diferentes tamaños de pantalla.
 
 ### Certificaciones
 
