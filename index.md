@@ -36,6 +36,12 @@ Por último, estuvo desarrollando una página web para la [escribanía familiar]
 - **Grade 7, Graded Examination in Spoken English Level B2.1** *Trinity College London*
 - **Grade 5, Graded Examination in Spoken English Level B1.2** *Trinity College London*
 
+## Contacto
+
+- **Celular:** [+54 9 351 521 2248](tel:5493515212248)
+- **Whatsapp:** [+54 9 351 521 2248](wa.me/5493515212248)
+- **Email:** [matischroder99@gmail.com](mailto:matischroder99@gmail.com)
+
 
 
 
