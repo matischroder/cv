@@ -38,9 +38,9 @@ Por último, estuvo desarrollando una página web para la [escribanía familiar]
 
 ## Contacto
 
-- **Celular:** [+54 9 351 521 2248](tel:5493515212248)
+- **Celular:** +54 9 351 521 2248
 - **Whatsapp:** [+54 9 351 521 2248](wa.me/5493515212248)
-- **Email:** [matischroder99@gmail.com](mailto:matischroder99@gmail.com)
+- **Email:** matischroder99@gmail.com
 
 
 
