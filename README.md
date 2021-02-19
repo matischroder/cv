@@ -1,1 +1,1 @@
-### (Curriculum)[https://matischroder.github.io/cv/]
+### [Currículum](https://matischroder.github.io/cv/])
