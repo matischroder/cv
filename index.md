@@ -40,6 +40,7 @@ Por último, estuvo desarrollando una página web para la [escribanía familiar]
 
 - **Celular:** +54 9 351 521 2248
 - **Email:** matischroder99@gmail.com
+- **Linkedin:** [Matías Schröder](https://www.linkedin.com/in/matischroder/)
 
 
 
