@@ -1,12 +1,10 @@
 theme: jekyll-theme-minimal
 title: Matías Celestino Schröder | 💻🤓
 description: >-
-Contacto
-- **Celular:** +54 9 351 521 2248
-- **Email:** matischroder99@gmail.com
-- **Linkedin:** [Matías Schröder](https://www.linkedin.com/in/matischroder/)
-
-
+  Contacto
+  Celular +54 9 351 521 2248
+  Email matischroder99@gmail.com
+  Linkedin [Matías Schröder](https://www.linkedin.com/in/matischroder/)
 github:
   is_project_page: false
 avatar: /assets/img/cv.jpeg
