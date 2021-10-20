@@ -2,7 +2,7 @@
 
 ### Experiencia
 
-- Armado y Configuración de Rigs de Minería (Qubistry Abr 2021 - Act)
+- Armado y configuración de Rigs de Minería (Qubistry Abr 2021 - Act)
 
 ### Proyectos facultativos
 
@@ -11,7 +11,7 @@
 
 ### Proyectos propios
 
-- React [App básica](https://gimplanes.netlify.app/) [App básica](https://campanadonacionlalonja.netlify.app/) [Página Web](https://escribaniaschroder.netlify.app/)
+- React [App](https://gimplanes.netlify.app/) | [App](https://campanadonacionlalonja.netlify.app/) | [Página Web](https://escribaniaschroder.netlify.app/)
 
 ### Habilidades
 - Solidity
@@ -32,7 +32,7 @@
 
 ### Idiomas
 - Español: nativo
-- Inglés: intermedio / alto
+- Inglés: intermedio | alto
 - Portugués: bajo
 
 ### Certificaciones
