@@ -4,5 +4,6 @@ theme: minima
 plugins:
   - jekyll-feed
 github:
-  is_project_page: false  
+  is_project_page: false
+avatar: cv/assets/image.png
 languages: ["en","es"]
