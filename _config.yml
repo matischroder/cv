@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Matías Celestino Schröder | 💻�
-description: ![CV image](/cv/assets/cv.jpeg)
+description: ![CV image](/cv/assets/img/cv.jpeg)
 github:
   is_project_page: false
 avatar: /assets/img/cv.jpeg
