@@ -1,7 +1,8 @@
-theme: jekyll-theme-minimal
 title: Matías Celestino Schröder | 💻
 description: <img src="assets/image.png" alt="Image CV">
+theme: minima
+plugins:
+  - jekyll-feed
 github:
-  is_project_page: false
-avatar: cv/assets/image.png
-  
+  is_project_page: false  
+languages: ["en","es"]
