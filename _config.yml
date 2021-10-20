@@ -4,4 +4,4 @@ description: <img src="assets/image.png" alt="Image CV">
 github:
   is_project_page: false
 avatar: cv/assets/image.png
-  
+languages: ["en","es"]
