@@ -11,7 +11,7 @@
 
 ### Proyectos propios
 
-- React [App](https://gimplanes.netlify.app/) | [App](https://campanadonacionlalonja.netlify.app/) | [Página Web](https://escribaniaschroder.netlify.app/)
+- React [App](https://gimplanes.netlify.app/) <code>&#124;</code> [App](https://campanadonacionlalonja.netlify.app/) <code>&#124;</code> [Página Web](https://escribaniaschroder.netlify.app/)
 
 ### Habilidades
 - Solidity
@@ -32,7 +32,7 @@
 
 ### Idiomas
 - Español: nativo
-- Inglés: intermedio | alto
+- Inglés: intermedio <code>&#124;</code> alto
 - Portugués: bajo
 
 ### Certificaciones
