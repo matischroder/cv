@@ -1,16 +1,15 @@
 ## Currículum Vítae
 
-### Experiencia
+  Estoy buscando trabajo part-time en el sector blockchain.
 
+### Experiencia
 - Armado y configuración de Rigs de Minería (Abr 2021 - Act) **Qubistry**
 
 ### Proyectos facultativos
-
-- [Trabajo Grupal](https://malucar.herokuapp.com/) Tecnologías utilizadas: HTML CSS JavaScript
-- [Página Web](https://voluntariadoing.ucc.edu.ar/) Tecnologías utilizadas: ReactJs
+- [Malucar](https://malucar.herokuapp.com/) <code>&#124;</code> Tecnologías utilizadas: HTML CSS JavaScript
+- [Voluntariado Inteniería](https://voluntariadoing.ucc.edu.ar/) <code>&#124;</code> Tecnologías utilizadas: ReactJs
 
 ### Proyectos propios
-
 - React: [App](https://gimplanes.netlify.app/) <code>&#124;</code> [App](https://campanadonacionlalonja.netlify.app/) <code>&#124;</code> [Página Web](https://escribaniaschroder.netlify.app/)
 
 ### Habilidades
